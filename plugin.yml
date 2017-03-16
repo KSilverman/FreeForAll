@@ -1,0 +1,14 @@
+name: FFA
+main: me.BajanAmerican.FFA.FFA
+version: 1.0
+description: >
+              My FFA plugin. 
+commands:
+     ffa: 
+       description: Joins FFA!
+     leave: 
+       description: Leaves FFA!
+     list: 
+       description: Lists players in FFA!
+     end: 
+       description: Stops the server!
